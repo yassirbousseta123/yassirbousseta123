@@ -26,3 +26,16 @@ I'm a **computer science student** with a strong interest in **software engineer
 
 ---
 _“Stay curious, keep building, and never stop learning!”_ 🚀
+<div align="left">
+<a>
+  <img src="https://github-readme-stats.vercel.app/api?username=yassirbousseta123&theme=tokyonight&show_icons=true" height=150 />
+</a>
+<a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassirbousseta123&langs_count=5&theme=tokyonight" height=150 />
+</a>
+<br>
+<a>
+  <img src="https://activity-graph.herokuapp.com/graph?username=yassirbousseta123&theme=rogue" width=50% height=200 alt="graph"/>
+</a>
+</div>
+</div>
