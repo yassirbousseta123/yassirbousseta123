@@ -1,7 +1,7 @@
 # Hi, I'm Yassir Bousseta! 👋
 
 ## 🚀 About Me
-I'm a **computer science student** with a strong interest in **software engineering, data science, and high-performance computing (HPC)**. I enjoy learning new technologies and solving challenging problems. My experience spans across **e-commerce, machine learning, and backend development**.
+I'm a **computer science student** with a strong interest in **software engineering, data science, and high-performance computing (HPC)**. I enjoy learning new technologies and solving challenging problems. My experience spans across ** machine learning, and backend development**.
 
 ## 🔥 What I'm Working On
 - 🖥️ **Software Engineering & HPC** – Learning **SLURM, parallel computing, and job scheduling**.
